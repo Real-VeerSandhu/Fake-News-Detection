@@ -1,2 +1,2 @@
 # Fake-News-Detection
-📰 A multi modal approach to fake news detection on r/Fakeddit (AI:X research project)
+📰 A multi modal approach to fake news detection on the Fakeddit dataset (AI:X research project)
